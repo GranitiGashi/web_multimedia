@@ -43,3 +43,110 @@ video.banner_video{
     width: 100%;
     margin-top: 120px;
 }
+
+
+.f_vd{
+    width: 100%;
+    margin-top: 60px;
+    border-radius: 7px;
+}
+
+.furniture_p{
+    margin-top: 60px;
+}
+
+.furnitore_img img{
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    right: -40px;
+}
+
+.furniture_section h2{
+    color: rgb(67, 66, 66);
+    margin-top: 82px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    text-align: center;
+    font-family: "Briem Hand", cursive;
+}
+
+.furniture_section p{
+    text-align: center;
+    color: rgb(148, 67, 80);
+    font-size: 20px;
+}
+
+.furniture_p p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.discover h2{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 70px;
+    color:  rgb(71, 171, 171);
+    font-family: "Briem Hand", cursive;
+}
+
+.discover_box img{
+    width: 100%;
+    border-radius: 7px;
+}
+
+.discover_box p{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 20px;
+    color: rgb(71, 171, 171);
+}
+
+.tool_section{
+    background-color: rgb(71, 171, 171);
+    margin-top: 100px;
+    padding: 83px 0;
+}
+
+.tools h2{
+    text-align: center;
+    font-family: "Briem Hand", cursive;
+    margin-bottom: 40px;
+    text-decoration: underline;
+}
+
+.tools p{
+    text-align: center;
+    font-size: 20px;
+}
+
+.tool_content{
+    margin-top: 60px;
+}
+
+.tool_label1 span{
+    background-color: rgb(228, 228, 54);
+    padding: 10px 15px;
+    border-radius: 7px;
+    font-size: 25px;
+    position: relative;
+    font-weight: bold;
+}
+
+.tool_label2 span{
+    background-color: rgb(255, 94, 0);
+    padding: 10px 15px;
+    font-size: 15px;
+    border-radius: 7px;
+    position: absolute;
+    top: -40px;
+    left: 130px;
+    color: white;
+}
+
+.tool_labels{
+    position: absolute;
+    top: 100px;
+    right: -90px;
+}
