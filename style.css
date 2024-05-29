@@ -397,3 +397,75 @@ font-weight: bold;
 .tool_section, .tool_section1, .tool_section3 {
   transition: background-color 0.5s ease;
 }
+
+
+.design_section{
+  display: flex;
+ margin-top: 100px;
+ position: relative;
+
+}
+
+.design_box img{
+width: 180px;
+margin-top: -120px;
+}
+
+.design_box{
+  text-align: center;
+  box-shadow:0 0 56px rgba(226, 95, 167, 0.24) ;
+  border-radius: 40px;
+  padding: 30px;
+  margin-bottom: 250px;
+
+}
+
+.ds_sec{
+  text-align: center;
+  margin-right: 80px;
+}
+
+.ds_sec h2{
+  font-family: "Briem Hand", cursive;
+  color: rgb(41, 67, 58);
+  text-decoration: underline;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.design_box h2{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-family: "Briem Hand", cursive;
+  text-decoration: underline;
+  color: aquamarine;
+}
+
+.design_section {
+  display: flex;
+  width: 100%;
+  position: relative;
+}
+
+
+.left-content {
+  flex: 1;
+  position: -webkit-sticky; 
+  position: sticky;
+  height: 80vh; 
+  padding: 20px;
+  background-color: white;
+  box-sizing: border-box;
+  top: 150px;
+}
+
+.right-content {
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
