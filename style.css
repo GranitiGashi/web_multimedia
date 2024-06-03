@@ -469,3 +469,91 @@ img {
   width: 100%;
   height: auto;
 }
+
+
+.fcontent {
+  text-align: center;
+}
+
+.fcontent button {
+  border-radius: 50%;
+  background-color: #ba2e66;
+  border: none;
+  margin-left: -36px;
+  cursor: pointer;
+}
+
+.fcontent h2 {
+  margin-bottom: 50px;
+  color: white;
+}
+.fa-chevron-right:before {
+  text-align: center;
+  padding: 18px 11px;
+}
+
+i.fa.fa-chevron-right {
+  height: 25px;
+  width: 28px;
+  line-height: 25px;
+}
+
+.newsletter_form {
+  margin: 0 auto;
+}
+.newsletter_form input {
+  width: 30%;
+  border-radius: 80px;
+  padding: 8px 12px;
+  border: none;
+}
+
+.footer_section {
+  background-color: #344648;
+  padding: 22px;
+  margin-top: 122px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+}
+
+.navigation ul {
+  list-style: none;
+  display: flex;
+  text-decoration-line: none;
+  color: black;
+  margin-top: 90px;
+}
+
+.navigation a {
+  text-decoration-line: none;
+  color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 15px;
+}
+
+.footeric {
+  display: flex;
+  margin-top: 70px;
+  justify-content: center;
+  gap: 23px;
+  align-items: center;
+}
+
+.footerc label {
+  font-size: 10px;
+}
+
+.footerc {
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+}
+
+
+.slick-prev:before, .slick-next:before{
+  color: black;
+}

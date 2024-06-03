@@ -24,3 +24,14 @@ function getColor(index) {
 function getBaseColor() {
     return '#FEBEB0';
 }
+
+jQuery(document).ready(function(){
+
+    jQuery('.animations').slick({
+        dots: true,
+        arrows: true,
+        infinite: true,
+        speed: 300, 
+    })
+       
+});
