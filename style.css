@@ -30,8 +30,8 @@ nav .logo a {
   }
   nav .logo {
     float: left;
-    width: 300px;
-    height: auto;
+    width: 390px;
+    height: 100%;
     display: flex;
     align-items: center;
     font-size: 24px;
@@ -40,7 +40,7 @@ nav .logo a {
     margin-left: 50px;
   }
   nav .logo img{
-      width: 150px;
+      width: 190px;
       border-radius: 7px;
   }
   nav .logo strong {
@@ -771,9 +771,7 @@ a:hover{
   height: 600px;
   background-position: center;
   background-size: cover;
-/* margin-top: 122px; */
   background-attachment: fixed;
-  margin-top: 70px;
 }
 
 .explore_content p{
